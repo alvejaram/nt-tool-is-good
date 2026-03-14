@@ -1,0 +1,1 @@
+# nt-tool-is-good
